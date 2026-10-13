@@ -51,11 +51,7 @@ select {
     width: 24px;
     height: 24px;
 }
-    .main{
-    display: flex;
-    overflow-x:auto;
-   
-}
+    
 .addcontainer{
     display: flex;
     overflow-x:auto;
