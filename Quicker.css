@@ -53,11 +53,13 @@ select {
 }
     
 .addcontainer{
+     justify-content: center;
     display: flex;
     overflow-x:auto;
 }
 
 .container{
+     justify-content: center;
     display: flex;
     overflow-x:auto;
    
